@@ -1,21 +1,51 @@
-MIT License
+VideoHub Python SDK License
 
-Copyright (c) 2026 videohub
+Copyright (c) 2026 LETSCMS PVT LTD
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is granted, free of charge, to any person obtaining a copy of the VideoHub Python SDK software and associated documentation files (the "Software") to download, install, use, copy, and modify the Software solely for personal, educational, research, evaluation, development, testing, or internal business purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The Software and any modifications made to it may be used internally by the licensee but may not be distributed, published, or shared with third parties except as expressly permitted by this License.
+
+The following activities are prohibited without prior written permission from LETSCMS PVT LTD:
+
+* Publishing the Software or any modified version of the Software.
+* Redistributing the Software or any modified version of the Software in source code or binary form.
+* Selling, sublicensing, renting, leasing, hosting, reselling, or otherwise commercializing the Software as a standalone product.
+* Creating, marketing, or distributing a competing SDK, platform, service, or product based primarily on the Software.
+* Incorporating substantial portions of the Software into a commercial product intended for redistribution.
+* Removing, altering, or obscuring any copyright, trademark, attribution, or proprietary notices contained in the Software.
+* Using the trademarks, trade names, logos, branding, or other identifiers of LETSCMS PVT LTD or VideoHub without prior written permission.
+
+Ownership
+
+LETSCMS PVT LTD retains all rights, title, and interest in and to the VideoHub Python SDK, including all intellectual property rights, copyrights, trademarks, patents, trade secrets, source code, documentation, updates, enhancements, modifications, and future releases.
+
+No ownership rights are transferred under this License. This License grants only the limited rights expressly stated herein.
+
+Third-Party Components
+
+The Software may include or depend upon third-party libraries, packages, or components that are subject to their own respective licenses. Such third-party components remain governed by their applicable license terms and are not covered by this License except where expressly stated.
+
+Termination
+
+This License shall automatically terminate if the licensee fails to comply with any term or condition of this License. Upon termination, the licensee must immediately cease all use of the Software and destroy all copies in their possession or control.
+
+Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR PERFORMANCE.
+
+Limitation of Liability
+
+IN NO EVENT SHALL LETSCMS PVT LTD, ITS DIRECTORS, OFFICERS, EMPLOYEES, CONTRACTORS, CONTRIBUTORS, OR AFFILIATES BE LIABLE FOR ANY CLAIM, DAMAGES, LOSSES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE SOFTWARE.
+
+Contact
+
+For licensing inquiries, commercial licensing, redistribution rights, or permissions not expressly granted by this License, contact:
+
+LETSCMS PVT LTD
+Email: info@letscms.com
+Email: support@videohub.dev
+Website: https://www.videohub.dev
+Website: https://www.letscms.com
